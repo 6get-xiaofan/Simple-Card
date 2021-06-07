@@ -12,6 +12,34 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  //调用头部
  $this->need('component/header.php');
  ?>
+<div class="row clearfix">
+		<div class="col-md-4 column">
+            <!-- music & user -->
+            <div class="row clearfix">
+				<div class="col-md-12 column">
+                    <div class="simple_music"></div>
+				</div>
+			</div>
+			<div class="row clearfix" id="row_clear">
+				<div class="col-md-12 column">
+                <div class="simple_user"></div>
+				</div>
+			</div>
 
+		</div>
+		<div class="col-md-8 column">
+            <!-- carousel -->
+            <div class="carousel"></div>
+		</div>
+	</div>
+    <div class="row clearfix">
+		<div class="col-md-3 column">
+		</div>
+		<div class="col-md-8 column">
+		</div>
+		<div class="col-md-1 column">
+		</div>
+	</div>
+</div>
 <!-- 调用尾部 -->
  <?php $this->need('component/footer.php'); ?>
