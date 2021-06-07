@@ -1,1 +1,3 @@
-## Simple Card ##
+<center><img src="https://img04.sogoucdn.com/app/a/100520146/5ce2567f5390c37eb04ffa3625e1b086"></center>
+<center>## Simple Card 卡片风格玻璃主题##</center>
+<center><a href="https://github.com/6get-xiaofan/Simple-Card/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/6get-xiaofan/Simple-Card"></a>&nbsp;<a href="https://github.com/6get-xiaofan/Simple-Card/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/6get-xiaofan/Simple-Card"></a>&nbsp;<a href="https://github.com/6get-xiaofan/Simple-Card/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/6get-xiaofan/Simple-Card"></a>&nbsp;<a href="https://github.com/6get-xiaofan/Simple-Card"><img alt="GitHub license" src="https://img.shields.io/github/license/6get-xiaofan/Simple-Card"></a></center>
